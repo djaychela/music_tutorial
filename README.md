@@ -41,9 +41,9 @@ where
 
 `mode` is one of:
 
-`midi` to hear a MIDI version of the file
-`score` to see the score
-`text` will show the python objects that the file generates
+* `midi` to hear a MIDI version of the file
+* `score` to see the score
+* `text` will show the python objects that the file generates
 
 `m210run 1/scale1.py midi` 
 
