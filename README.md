@@ -35,7 +35,11 @@ Use pip to install the requirements included in the requirements file
 
 `m210run <filename> <mode>`
 
-where the filename is the music_tutorial file to run (such as 1/scale1.py), and the mode is one of:
+where
+
+`filename` - the music_tutorial file to run (such as 1/scale1.py)
+
+`mode` is one of:
 
 "midi" to hear a MIDI version of the file
 "score" to see the score
