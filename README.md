@@ -41,9 +41,11 @@ where
 
 `mode` is one of:
 
-"midi" to hear a MIDI version of the file
-"score" to see the score
-"text" will show the python objects that the file generates
+`midi` to hear a MIDI version of the file
+`score` to see the score
+`text` will show the python objects that the file generates
+
+`m210run 1/scale1.py midi` 
 
 ### MIDI (midi)
 When using the MIDI mode, music_tutorial will generate a MIDI file in a temporary directory, and then launch the appropriate system MIDI player to allow the user to hear it, currently:
