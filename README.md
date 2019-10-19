@@ -50,14 +50,16 @@ where
 ### MIDI (midi)
 When using the MIDI mode, music_tutorial will generate a MIDI file in a temporary directory, and then launch the appropriate system MIDI player to allow the user to hear it, currently:
 
-Timidity on linux
-Windows Media Player on Windows
-VLC on macOS
+* Timidity on linux
+* Windows Media Player on Windows
+* VLC on macOS
 
-Timidity or VLC need to be installed prior to using them (see requirements section)
+Timidity or VLC need to be installed prior to using them (see prerequisites section).
 
 ### Score View (score)
 When using score mode, music_tutorial will generate a musicXML file in a temporary directory, and then launch musescore to allow the user to view, edit and play it.
+
+Musescore needs to be installed prior to using it (see prerequisites section).
 
 ### Python Object View (text)
 When using the object view, music_tutorial will output the objects to stdout, allowing inspection of the music21 objects that have been generated.
