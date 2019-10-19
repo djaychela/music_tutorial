@@ -21,7 +21,7 @@ Installation of musescore (for scoring) - Windows Media Player is used for MIDI 
 
 Musescore: [https://musescore.org/en/download]
 
-Installation:
+## Installation:
 
 Clone the repository:
 
