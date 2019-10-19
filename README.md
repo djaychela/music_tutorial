@@ -7,12 +7,13 @@ music_tutorial aims to (TBC)
 ### Linux:
 Installation of musescore (for scoring) and timidity (for MIDI playback).  For most distributions using apt, the following command will install these:
 
-sudo apt-get install timidity
+`sudo apt-get install timidity`
 
 ### macOS:
 Installation of musescore (for scoring) and VLC (for MIDI playback).
 
 Musescore: [https://musescore.org/en/download]
+
 VLC: [https://www.videolan.org/vlc/]
 
 ### Windows:
