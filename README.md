@@ -27,7 +27,7 @@ Clone the repository:
 
 `git clone [https://github.com/geokala/music_tutorial.git]`
 
-Use pip to install the requirements included in the requirements file
+Use pip to install the requirements included in the requirements file (currently music21)
 
 `pip install -r requirements.txt`
 
